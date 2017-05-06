@@ -1,16 +1,24 @@
 h1 {
-  color: #5179ba;
+  color: #8E8E38;
+  text-shadow: 4px 4px lightgrey;
+}
+h3 {
+  text-shadow: 2px 2px lightgrey;
 }
 body {
-  background-color: lightgray;
+  background-color: #FF4500;
+  background-image: url("https://media.giphy.com/media/RVuNZB864BeVy/giphy.gif");
+  color: #8E8E38;
 }
 .list-item {
-  font-family: monospace;
+  font-family:serif;
+  text-decoration: underline;
 }
 #goal-list {
   border-style: solid;
   border-color: #5179ba;
   width: 30%;
+  font-size: 16px;
 }
 #picture {
   width: 60%;
